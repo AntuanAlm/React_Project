@@ -21,7 +21,7 @@ function App() {
 
       <h2>Lista de Pokemons</h2>
 
-      <PokemonList selectedPokemon={setSelectedPokemon}> </PokemonList>
+      <PokemonList selectedPokemon={setSelectedPokemon}></PokemonList>
     </>
   )
 }
